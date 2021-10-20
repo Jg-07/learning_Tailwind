@@ -12,7 +12,23 @@
 
     .sidebar-logo{
         @apply relative flex items-center justify-center h-12 w-12 mt-2 
-        mb-2 mx-auto bg-indigo-600 text-white rounded-lg;
+        mb-2 mx-auto bg-gray-700 text-white rounded-3xl hover:rounded-lg 
+        transition-all duration-300 hover:bg-indigo-600;
     }
 
+    .sidebar-tooltip{
+        @apply absolute w-auto p-2 m-2 min-w-max left-14 origin-left 
+        rounded-md shadow-lg text-white bg-gray-900 font-bold 
+        text-base transition-all duration-100 scale-0 z-10
+        before:absolute before:left-[-4px] before:top-4 
+        before:origin-right before:w-0 before:h-0 
+        before:border-r-gray-900 before:border-l-transparent
+        before:border-t-transparent before:border-b-transparent
+        before:border-t-4 before:border-b-4 before:border-l-0 
+        before:border-r-4 before:z-10;
+    }
+
+    .sever-head{
+        @apply relative p-4 mt-2 ml-2 text-gray-300 font-bold text-2xl;
+    }
 }
