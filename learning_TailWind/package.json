@@ -1,0 +1,22 @@
+{
+  "name": "learning-tailwind",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@craco/craco": "^6.3.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-icons": "^4.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.0",
+    "autoprefixer": "^9.8.8",
+    "postcss": "^7.0.39",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
+    "vite": "^2.6.4"
+  }
+}
