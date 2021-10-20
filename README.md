@@ -10,6 +10,6 @@ Tailwind is one the most popular CSS frameworks that's being used in most of the
 * Men use SCSS 🧔
 * Legends use Tailwind CSS 😎
 
-*Personally I felt Tailwind is really amazing tool for everyone especially those who are good at CSS fundamentals. Its neither like Bootstrap which consits for all the things pre-built and non-customisable nor like CSS where we need to like 1000 lines of code for simple flex/grid layout. Its completely optimal and simple to use especially recommended to be used with VS code due to its amazing extensions then make our life simple.* 
+*Personally I felt Tailwind is a really amazing tool for everyone especially those who are good at CSS fundamentals. Its neither like Bootstrap which consits for all the things pre-built and non-customisable nor like CSS where we need to like 1000 lines of code for simple flex/grid layout. Its completely optimal and simple to use especially recommended to be used with VS code due to its amazing extensions then make our life simple.* 
 
 Happy Codding 🚀😎 ..
